@@ -3,197 +3,166 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Marcel Gieles
+    tagline: Aanpakker
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: marcelgieles@gmail.com
+    phone:
+    website: #do not add http://
+    linkedin:
+    github:
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter:
+    stack-overflow:
     codewars:
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Nederlands
+        level: moedertaal
 
-      - idiom: French
-        level: Professional
+      - idiom: Engels
+        level: Vloeiend gesproken, gelezen en geschreven
 
-      - idiom: Spanish
-        level: Professional
-        
+      - idiom: Duits
+        level: Goed gesproken en gelezen, voldoende geschreven
+
     interests:
-      - item: Climbing
+      - item: |
+          Politiek is één van mijn twee grote passies. Je kunt me midden in de
+          nacht wakker maken om te bespreken wat we moeten doen en wat het
+          inhoudt om de wereld een betere plek te maken. Dit zorgt ervoor dat ik
+          de actualiteiten altijd op de voet probeer te volgen.
         link:
 
-      - item: Snowboarding
+      - item: |
+          Mijn andere passie is sport. Ik zit in één veldvoetbalteam en in twee
+          zaalvoetbalteams. Daarnaast doe ik aan hardlopen, squash en ga ik
+          regelmatig naar de sportschool.
         link:
 
-      - item: Cooking
-        link:
 
 career-profile:
-    title: Career Profile
+    title: Carrière profiel
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Summarise your career here
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+
+    - degree: MSc Politieke theorie en politiek gedrag
+      university: UvA - Universiteit van Amsterdam
+      time: 2014 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Deze master heeft mij een breed scala aan theorieën aangereikt om
+        concepten als rechtvaardigheid, legitimiteit, democratie, de markt en
+        vrijheid te verduidelijken. In dit brede veld lag mijn interesse in het
+        bijzonder bij het spanningsveld tussen de markt en vrijheid.
 
-          - Bullet point
-          - Bullet point 
+          - Masterthesis: “The freedom to exclude: Private property rights and their compatibility with the Capability Approach”
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Politicologie
+      university: VU - Vrije Universiteit, Amsterdam
+      time: 2008-2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Zoals in alle goede wetenschappelijke opleidingen heb ik bij
+        politicologie geleerd om niet slechts te vertrouwen op gevoel, maar om
+        resultaten te testen en om te reflecteren op zowel veranderingen als op
+        bestaande processen. Echter, wat ik nog belangrijker vind is dat mijn
+        opleiding mijn wereldbeeld heeft verbreed. Naast het standaardcurriculum
+        heb ik gekozen me te verdiepen in de uitdagingen van de huidige
+        multiculturele samenleving. Zo heb ik geleerd om me in te kunnen leven
+        in het wereldbeeld van een ander en om kritisch te zijn ten opzichte van
+        mijn eigen ideeën.
 
-          - Bullet point
-          - Bullet point 
+          - Bachelorthesis: “The US’ reasons to lead a ‘humanitarian war’ in the
+            Former Republic of Yugoslavia.”
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Politiek Analist
+      time: 2009-2010, 2013-2014
+      company: Kieskompas
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Kieskompas is een instrument dat de politieke standpunten van kiezers
+        naast die van politieke partijen legt. Hiermee laat het zien welke
+        standpunten politieke partijen innemen en helpt het kiezers om een
+        geïnformeerde stem uit te brengen. Mijn verantwoordelijkheden:
+        organiseren van debatten, contact onderhouden met derden (in dit geval
+        voornamelijk gemeenteraadsleden), ontwerpen van de inhoud en het
+        marketen van het concept om het bereik te vergroten.
 
-          - Bullet point
-          - Bullet point 
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Parttime werk
+      time: 2002 - nu
+      company: Verschillende
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Verschillende banen in de horeca, distributie, constructie en bij de
+        organisatie van evenementen. Ongeveer 16 uur per week.
 
-          - Bullet point
-          - Bullet point
+      # - Bullet point
+      # - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+
+nevenactiviteiten:
+    - role: Vicevoorzitter
+      time: 2011-2012
+      company: De Jongerenraad van de gemeente Texel
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        De Jongerenraad adviseert de raadsleden van de gemeente Texel in hun
+        besluitvorming met als doel de jongeren van Texel te vertegenwoordigen
+        in het politieke proces. Mijn verantwoordelijkheden waren:
+        verduidelijken van beleidsstukken en de communicatie tussen de gemeente
+        en de jongerenraad soepel laten verlopen.
 
-          - Bullet point
-          - Bullet point
+    - role: Facilitair Commissielid
+      time: 2015 - nu
+      company: DVVA (voetbalclub)
+      details: |
+        Wij zorgen dat de kantine van DVVA goed onderhouden blijft en
+        organiseren regelmatig dagen waarop vrijwilligers worden ingezet om
+        klussen in de kantine uit te voeren.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    - role: Jeugdcoach
+      time: 2000 - nu
+      company: Diverse
+      details: |
+        Naast het organiseren van debatten voor middelbare scholieren namens
+        Kieskompas heb ik ook talloze keren als vrijwilliger gewerkt in een
+        vergelijkbare rol. Voorbeelden zijn: een jaar lang de gymleraar
+        ondersteunen bij gymles aan basisscholieren, mede- organiseren van een
+        voetbalclinic voor de jeugd namens mijn club, begeleiden van kinderen
+        bij klimexcursies. Ook heb ik namens Cross Your Borders voor de klas
+        mogen staan om middelbare scholieren te onderwijzen over de
+        leefomstandigheden en gewoontes van inwoners van landen buiten Europa.
+        Tot slot heb ik in het afgelopen jaar ook meerdere trainingen
+        georganiseerd en geleid voor mijn huidige voetbalclub.
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Computervaardigheden
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: PowerPoint
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Word
+        level: 80%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Excel
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: SPSS
+        level: 80%
+
+      - name: Prezi
+        level: 90%
+
+      # - name: Sketch & Photoshop
+      #   level: 60%
+
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
