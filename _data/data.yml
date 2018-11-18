@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: marcelgieles@gmail.com
     phone:
-    website: #do not add http://
+    website: marcelgieles.nl #do not add http://
     linkedin:
     github:
     gitlab:
@@ -51,7 +51,7 @@ sidebar:
 career-profile:
     title: Carrière profiel
     summary: |
-      Summarise your career here
+      TODO
 
 education:
 
@@ -84,6 +84,12 @@ education:
             Former Republic of Yugoslavia.”
 
 experiences:
+    - role: Manager
+      time: ??-??
+      company: Kaasmuseum
+      details: |
+        TODO
+
     - role: Politiek Analist
       time: 2009-2010, 2013-2014
       company: Kieskompas
